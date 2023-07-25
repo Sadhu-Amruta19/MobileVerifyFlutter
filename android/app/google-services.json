@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683726625197",
+    "project_id": "mobile-verify-522e1",
+    "storage_bucket": "mobile-verify-522e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683726625197:android:d0dd2d03aa18034af0a924",
+        "android_client_info": {
+          "package_name": "com.example.mobile_verification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683726625197-orp7rv39mfnfm719erj0ksjcqrvtng44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPSvF-Zgr4hiHb3U1tyGHc4zD2EUicVt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683726625197-orp7rv39mfnfm719erj0ksjcqrvtng44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
